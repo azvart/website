@@ -1,0 +1,21 @@
+{
+    "row-five": {
+        "title": "",
+        "paragraph": "",
+        "list-blue": {
+            "title": "",
+            "list-item": {
+                "one": "nemokėti pinigų, kol negavo prekės/paslaugos;",
+                "two": "galėti apsigalvoti ir atšaukti užsakymą arba grąžinti prekę;",
+                "tree": "prieš užsakant matyti kitų klientų vertinimus."
+            }
+        },
+        "list-dark-blue": {
+            "title": "",
+            "list-item": {
+                "one": "atiduoti prekę /suteikti paslaugą tik po apmokėjimo;",
+                "two": "didinti klientų pasitikėjimą ir kaupti rekomendacijas."
+            }
+        }
+    }
+}

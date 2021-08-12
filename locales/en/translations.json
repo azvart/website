@@ -1,0 +1,65 @@
+{
+    "row-one": {
+        "title": "Trust your deal partner",
+        "paragrapgh": "Application for trading between strangers online or offline protects deal of any size for little money"
+    },
+    "row-two": {
+        "title": "What is WinWin?",
+        "list": {
+            "paragraph-one": "WinWin solves the trust problem between strangers when they trade online or face to face.",
+            "paragraph-two": "As an independent third party WinWin holds the funds in trust, limits the uncertainty of sale and risk of fraud.",
+            "paragraph-three": "The seller and the buyer resolve claims and negotiations directly and fully automated according to the WinWin algorithm."
+        }
+    },
+    "row-tree": {
+        "title": "How WinWin helps you?",
+        "list": {
+            "title-one": "Holds the funds in trust",
+            "title-two": "Limits the uncertainty of sale",
+            "title-tree": "Limits the risk of fraud",
+            "paragraph-one": "Excepteur sint occaecat cupidata proidenti sunt culpaofficia deselens mollit anims.",
+            "paragraph-two": "Lorem iplaborum dolorsit ame consecters adipiscig noumy nibhsitame euisms.",
+            "paragraph-tree": "Excepteur sint occaecat cupidata proidenti sunt culpaofficia deselens mollit anims."
+        }
+    },
+    "row-four": {
+        "title": "How it Works?",
+        "list": {
+            "title-one": "The Buyer or the Seller creates agreement in WinWin",
+            "title-two": "The Buyer submits payment to WinWin",
+            "title-tree": "The Seller delivers good/service",
+            "title-four": "The Buyer approves the quality or negotiates with the Seller",
+            "title-five": "WinWin submits payment to the Seller"
+        }
+    },
+    "row-five": {
+        "title": "When it’s worth to use WinWin",
+        "paragraph": "Excepteur sint occaecat cupidata proidenti suntlor culpaofficia deselens. Loremsitame iplaborum dolorsit consecters adipiscig noumy nibhsitame euisms.",
+        "list-blue": {
+            "title": "For buyers",
+            "list-item": {
+                "one": "",
+                "two": "",
+                "tree": ""
+            }
+        },
+        "list-dark-blue": {
+            "title": "For sellers",
+            "list-item": {
+                "one": "",
+                "two": ""
+            }
+        }
+    },
+    "row-six": {
+        "title": "Trust your deal partner",
+        "paragraph": "Anywhere. Anytime."
+    },
+    "footer": {
+        "right": "© 2021 WinWin. All rights reserved"
+    },
+    "button": {
+        "title": "start using",
+        "link": "Privacy policy"
+    }
+}

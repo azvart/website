@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa1c8e7e.chunk.css",
+    "main.js": "/static/js/main.40401657.chunk.js",
+    "main.js.map": "/static/js/main.40401657.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/css/2.c09b5ca6.chunk.css": "/static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.f5a1f9f4.chunk.js": "/static/js/2.f5a1f9f4.chunk.js",
+    "static/js/2.f5a1f9f4.chunk.js.map": "/static/js/2.f5a1f9f4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c09b5ca6.chunk.css.map": "/static/css/2.c09b5ca6.chunk.css.map",
+    "static/css/main.aa1c8e7e.chunk.css.map": "/static/css/main.aa1c8e7e.chunk.css.map",
+    "static/js/2.f5a1f9f4.chunk.js.LICENSE.txt": "/static/js/2.f5a1f9f4.chunk.js.LICENSE.txt",
+    "static/media/homepage.scss": "/static/media/SpaceGrotesk-SemiBold.ed2db191.ttf",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
+    "static/media/ic_language.4997a0e5.svg": "/static/media/ic_language.4997a0e5.svg",
+    "static/media/img-man.eb103a86.png": "/static/media/img-man.eb103a86.png",
+    "static/media/img-phone-card.0a89d19d.png": "/static/media/img-phone-card.0a89d19d.png",
+    "static/media/img.65787cb3.png": "/static/media/img.65787cb3.png",
+    "static/media/mockup_1-phone.9bf1fa27.png": "/static/media/mockup_1-phone.9bf1fa27.png",
+    "static/media/mockup_1.591c9b24.png": "/static/media/mockup_1.591c9b24.png",
+    "static/media/mockup_2.c0c230df.png": "/static/media/mockup_2.c0c230df.png",
+    "static/media/mockup_22.73c49a2c.png": "/static/media/mockup_22.73c49a2c.png",
+    "static/media/mockup_3.499bd692.png": "/static/media/mockup_3.499bd692.png",
+    "static/media/mockup_4.7ba99dcf.png": "/static/media/mockup_4.7ba99dcf.png",
+    "static/media/mockup_5.458d7f11.png": "/static/media/mockup_5.458d7f11.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.f5a1f9f4.chunk.js",
+    "static/css/main.aa1c8e7e.chunk.css",
+    "static/js/main.40401657.chunk.js"
+  ]
+}
