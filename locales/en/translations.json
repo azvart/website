@@ -1,66 +1,188 @@
 {
-	"row-one": {
-		"title": "Trust your deal partner",
-		"paragrapgh": "Solution for trading between strangers online or face to face easily protects deal of any size for little money"
-	},
-	"row-two": {
-		"title": "What is WinWin",
-		"list": {
-			"paragraph-one": "Service uses escrow principle, which has been known in the world for over 150 years and is widely used to protect real estate transactions.",
-			"paragraph-two": "WinWin has adjusted this principle to protect deals of any size online or face to face.",
-			"paragraph-three": "To resolve disputes, WinWin has developed a unique dispute resolution tool, that protects both buyer and seller from abuse."
-		}
-	},
-	"row-tree": {
-		"title": "How WinWin helps me",
-		"list": {
-			"title-one": "Holds the funds in trust",
-			"title-two": "Limits the uncertainty of sale",
-			"title-tree": "Limits the risk of fraud",
-			"paragraph-one": "As an independent third party witness of a deal, stores data in the event of a dispute.",
-			"paragraph-two": "Helps to anticipate the main terms of the agreement (e.g. what will happen if the goods don't arrive on time).",
-			"paragraph-tree": "Limits the risk of fraud by correctly identifying the buyer and the seller."
-		}
-	},
-	"row-four": {
-		"title": "How it Works",
-		"list": {
-			"title-one": "The Buyer or the Seller chooses WinWin to secure the transaction",
-			"title-two": "The Buyer submits payment to WinWin",
-			"title-tree": "The Seller delivers good/service",
-			"title-four": "The Buyer approves the quality or initiates dispute with the Seller through unique WinWin dispute resolution tool",
-			"title-five": "WinWin submits payment to the Seller"
-		}
-	},
-	"row-five": {
-		"title": "When it’s worth to use WinWin",
-		"paragraph": "When buying or selling any used item - a car, an Internet domain, ordering goods or services (e.g., furniture order or house repairing)",
-		"list-blue": {
-			"title": "For buyers",
-			"list-item": {
-				"one": "Payment only upon receipt of the product or service",
-				"two": "There is enough time to check the quality before final payment",
-				"tree": "Before sending the goods, there is time to change your mind and refuse the goods simply and free of charge"
-			}
-		},
-		"list-dark-blue": {
-			"title": "For sellers",
-			"list-item": {
-				"one": "Reliable and affordable payment that is easy for buyers to use",
-				"two": "Pricing and terms are tailored to transactions of any size, both online and in physical locations",
-				"three": "WinWin’s dispute resolution tool keeps buyers from abusing quality disputes"
-			}
-		}
-	},
-	"row-six": {
-		"title": "Trust your deal partner",
-		"paragraph": "Trust wins"
-	},
-	"footer": {
-		"right": "© 2021 WinWin. All rights reserved"
-	},
-	"button": {
-		"title": "start using",
-		"link": "Privacy policy"
-	}
+    "row-one": {
+        "title": "Trust your deal partner",
+        "paragrapgh": "Solution for trading between strangers online or face to face easily protects deal of any size for little money"
+    },
+    "row-two": {
+        "title": "What is WinWin",
+        "list": {
+            "paragraph-one": "Service uses escrow principle, which has been known in the world for over 150 years and is widely used to protect real estate transactions.",
+            "paragraph-two": "WinWin has adjusted this principle to protect deals of any size online or face to face.",
+            "paragraph-three": "To resolve disputes, WinWin has developed a unique dispute resolution tool, that protects both buyer and seller from abuse."
+        }
+    },
+    "row-tree": {
+        "title": "How WinWin helps me",
+        "list": {
+            "title-one": "Holds the funds in trust",
+            "title-two": "Limits the uncertainty of sale",
+            "title-tree": "Limits the risk of fraud",
+            "paragraph-one": "As an independent third party witness of a deal, stores data in the event of a dispute.",
+            "paragraph-two": "Helps to anticipate the main terms of the agreement (e.g. what will happen if the goods don't arrive on time).",
+            "paragraph-tree": "Limits the risk of fraud by correctly identifying the buyer and the seller."
+        }
+    },
+    "row-four": {
+        "title": "How it Works",
+        "list": {
+            "title-one": "The Buyer or the Seller chooses WinWin to secure the transaction",
+            "title-two": "The Buyer submits payment to WinWin",
+            "title-tree": "The Seller delivers good/service",
+            "title-four": "The Buyer approves the quality or initiates dispute with the Seller through unique WinWin dispute resolution tool",
+            "title-five": "WinWin submits payment to the Seller"
+        }
+    },
+    "row-five": {
+        "title": "When it’s worth to use WinWin",
+        "paragraph": "When buying or selling any used item - a car, an Internet domain, ordering goods or services (e.g., furniture order or house repairing)",
+        "list-blue": {
+            "title": "For buyers",
+            "list-item": {
+                "one": "Payment only upon receipt of the product or service",
+                "two": "There is enough time to check the quality before final payment",
+                "tree": "Before sending the goods, there is time to change your mind and refuse the goods simply and free of charge"
+            }
+        },
+        "list-dark-blue": {
+            "title": "For sellers",
+            "list-item": {
+                "one": "Reliable and affordable payment that is easy for buyers to use",
+                "two": "Pricing and terms are tailored to transactions of any size, both online and in physical locations",
+                "three": "WinWin’s dispute resolution tool keeps buyers from abusing quality disputes"
+            }
+        }
+    },
+    "row-six": {
+        "title": "Trust your deal partner",
+        "paragraph": "Trust wins"
+    },
+    "footer": {
+        "right": "© 2021 WinWin. All rights reserved"
+    },
+    "button": {
+        "title": "start using",
+        "link": "Privacy policy"
+    },
+
+    "messages": {
+        "notification": {
+            "title": "We’ve sent you an email to your inbox",
+            "paragraph": "Excepteur sint occaecat cupidatat  proident sunt culpa uiofficia.  deserunt mollit laborum.",
+            "btn": "Log in"
+        },
+        "payment": {
+            "title": "Payment completed successfully",
+            "paragraph": "Excepteur sint occaecat cupidatat  proident sunt culpa uiofficia.  deserunt mollit laborum.",
+            "btn": "Go back to list"
+        },
+        "verification": {
+            "title": "Your identity was verified successfully",
+            "paragraph": "Excepteur sint occaecat cupidatat  proident sunt culpa uiofficia.  deserunt mollit laborum.",
+            "btn": "Continue to payment"
+        },
+        "deal": {
+            "title": "Deal information was sent to seller",
+            "paragraph": "Your deal has been sent, we are awaiting approval from the other party.",
+            "btn": "Go back to list"
+        },
+        "pending": {
+            "title": "Your verification is in progress",
+            "paragrpah": "It can take up to 24 hours to verify your identity",
+            "btn": "Continue using WinWin"
+        },
+        "invite": {
+            "title": "Invitation has been sent",
+            "paragraph": "Excepteur sint occaecat cupidatat  proident sunt culpa uiofficia.  deserunt mollit laborum.",
+            "btn": "Go back"
+        },
+        "review": {
+            "title": "Thank you for review",
+            "paragraph": "Your review will be publishes by our moderator.",
+            "btn": "Go back"
+        }
+    },
+    "review": {
+        "title": "Write a Review",
+        "paragraph": "Your order is complete. Help the community to make a choice and evaluate the seller.",
+        "btn": "send"
+    },
+    "privacy": {
+        "title": "Privatumo politika",
+        "content": {
+            "row-one": {
+                "title": "Kas yra slapukai?",
+                "paragraph": "Slapukai yra maži tekstiniai failai, saugomi Jūsų įrenginio (pvz., kompiuterio, mobiliojo telefono, planšetės) naršyklėje, kai Jūs naršote interneto svetainėse. Kitos technologijos, įskaitant duomenis, kuriuos išsaugome Jūsų interneto naršyklėje ar įrenginyje, su Jūsų įrenginiu susijusius identifikatorius bei kitą programinę įrangą, naudojamos panašiais tikslais. Slapukai plačiai naudojami, kad svetainės veiktų arba veiktų geriau ir veiksmingiau. Šioje politikoje visos minėtos technologijos vadinamos „slapukais“."
+            },
+            "row-two": {
+                "title": "Kodėl jūs naudojate slapukus?",
+                "list-title": "Mes naudojame slapukus:",
+                "list-items": [
+                    "užtikrinti, kad svetainė veikia taip, kaip ji turi veikti;",
+                    "užtikrinti, kad neturėsite iš naujo prisijungti kaskart apsilankę svetainėje;",
+                    "išsaugoti jūsų nustatymus per apsilankymą ir tarp jų;",
+                    "pagerinti svetainės greitį/saugumą;",
+                    "suteikti jums galimybę pasidalinti puslapiais socialiniuose tinkluose, pvz., „Facebook“, „Instagram“ ar „LinkedIn“;",
+                    "užtikrinti, kad prisijungę galėsite pritaikyti svetainę savo poreikiams, kad greičiau rastumėte tai, ko ieškote;",
+                    "nuolat tobulinti svetainę, kad jį būtų jums dar patrauklesnė;",
+                    "kurti veiksmingesnę rinkodarą."
+                ]
+
+            },
+            "row-three": {
+                "title": "Kokių tipų slapukus naudojate?",
+                "list-titles": [{
+                        "title": "Griežtai privalomi slapukai",
+                        "paragraph": "Šie slapukai svetainėje yra būtini, kad vartotojas galėtų naršyti ir naudotis svetainės funkcijomis, pvz., įsiminti formose įvestą informaciją, kai vartotojas pereina nuo vieno puslapio prie kito naršymo seanso metu. Be griežtai privalomų slapukų taptų neį"
+                    },
+                    {
+                        "title": "Analitiniai slapukai",
+                        "paragraph": "Analitiniai slapukai renka informaciją apie svetainės naudojimą ir padeda tobulinti svetainės veikimą. Pavyzdžiui, analitiniai slapukai gali parodyti, kuriuose puslapiuose lankomasi dažniausiai, padėti registruoti svetainėje vykstančius nesklandumus ir par"
+                    },
+                    {
+                        "title": "Funkciniai slapukai",
+                        "paragraph": "Funkciniai slapukai leidžia svetainei įsiminti jūsų pasirinkimus ir pateikti patobulintų bei labiau jūsų poreikiams pritaikytų funkcijų. Funkciniai slapukai taip pat įsimena jūsų padarytus pakeitimus, pvz., tam tikro tinklalapio individualizavimą, taip pat"
+                    },
+
+                    {
+                        "title": "Tiksliniai arba reklaminiai slapukai",
+                        "paragraph": "Tiksliniai arba reklaminiai slapukai naudojami tam, kad jums būtų rodoma įdomesnė ir jūsų interesus labiau atitinkanti reklama, arba tam, kad tos pačios reklamos parodymų svetainėje skaičius būtų ribojamas. Šios rūšies slapukai taip pat naudojami reklamos "
+                    }
+                ]
+
+            },
+            "row-four": {
+                "title": "Kokius slapukus jūs naudojate?",
+                "paragraph": "Puslapyje naudojami griežtai privalomi, analitiniai ir tiksliniai arba reklaminiai slapukai."
+            },
+            "row-five": {
+                "title": "Kaip galiu valdyti slapukus?",
+                "items": [
+                    "Griežtai privalomi slapukai ir analitiniai slapukai yra naudojimosi mūsų svetaine sąlyga. Jei atsisakysite šių slapukų rūšių, negalime numatyti, kaip mūsų svetainė veiks, kai joje apsilankysite.",
+                    "Galite kontroliuoti funkcinių slapukų ir tikslinių arba reklaminių slapukų naudojimą, pakeitę naršyklės nustatymus.",
+                    "Atkreipkite dėmesį, kad trindami slapukus arba išjungdami slapukų naudojimą ateityje, galite nepasiekti tam tikrų mūsų svetainės dalių ar funkcijų. Jei pakeisite slapukų nustatymus, tai paveiks ir kitas jūsų lankomas svetaines."
+                ]
+            }
+        },
+        "table": {
+            "title": "Informacija apie naudojamus slapukus interneto puslapyje www.winwin.com",
+            "titles": [{
+                    "title": "Paskirtis",
+                    "paragraphs": ["Fiksuoja vartotojo atėjimo laiką", "Google Analytics: atskiria vartotojus", "Google Analytics: atskiria vartotojus", "Google Analytics slapukas reikalingas sąsajai su Google Analytics paskyra", "Google Analytics: saugoma informacija iš kur vartotojas atėjo, kokį paieškos variklį naudojo, kokią nuorodą paspaudė, koks raktažodis buvo panaudotas"]
+                },
+                {
+                    "title": "Pavadinimas",
+                    "paragraphs": ["October_session", "_ga", "_gid", "_utmt_UA_XXX", "__utma, _utmb, _utmc"]
+                },
+                {
+                    "title": "Galiojimo laikas",
+                    "paragraphs": ["Iki interneto Svetainės lango uždarymo pabaigos", "2 metus", "1 dieną", "6 mėnesius", "2 metus"]
+                },
+                {
+                    "title": "Naudojami duom.",
+                    "paragraphs": ["Unikalus ID", "Trumpas atsitiktinai sugeneruotas ID", "Trumpas atsitiktinai sugeneruotas ID "]
+                }
+            ]
+
+        }
+    }
 }
