@@ -167,22 +167,51 @@
             "title": "Informacija apie naudojamus slapukus interneto puslapyje www.winwin.com",
             "titles": [{
                     "title": "Paskirtis",
-                    "paragraphs": ["Fiksuoja vartotojo atėjimo laiką", "Google Analytics: atskiria vartotojus", "Google Analytics: atskiria vartotojus", "Google Analytics slapukas reikalingas sąsajai su Google Analytics paskyra", "Google Analytics: saugoma informacija iš kur vartotojas atėjo, kokį paieškos variklį naudojo, kokią nuorodą paspaudė, koks raktažodis buvo panaudotas"]
+                    "paragraphs": ["Fiksuoja vartotojo atėjimo laiką", "October_session", "Iki interneto Svetainės lango uždarymo pabaigos", "Unikalus ID"]
                 },
                 {
                     "title": "Pavadinimas",
-                    "paragraphs": ["October_session", "_ga", "_gid", "_utmt_UA_XXX", "__utma, _utmb, _utmc"]
+                    "paragraphs": ["Google Analytics: atskiria vartotojus", "_ga", "2 metus", "Trumpas atsitiktinai sugeneruotas ID"]
                 },
                 {
                     "title": "Galiojimo laikas",
-                    "paragraphs": ["Iki interneto Svetainės lango uždarymo pabaigos", "2 metus", "1 dieną", "6 mėnesius", "2 metus"]
+                    "paragraphs": ["Google Analytics: atskiria vartotojus", "_gid", "1 dieną", "Trumpas atsitiktinai sugeneruotas ID "]
                 },
                 {
                     "title": "Naudojami duom.",
-                    "paragraphs": ["Unikalus ID", "Trumpas atsitiktinai sugeneruotas ID", "Trumpas atsitiktinai sugeneruotas ID "]
+                    "paragraphs": ["Google Analytics slapukas reikalingas sąsajai su Google Analytics paskyra", "_utmt_UA_XXX", "6 mėnesius"]
+                },
+                {
+                    "paragraphs": ["Google Analytics: saugoma informacija iš kur vartotojas atėjo, kokį paieškos variklį naudojo, kokią nuorodą paspaudė, koks raktažodis buvo panaudotas", "__utma, _utmb, _utmc", "2 metus"]
                 }
             ]
 
         }
+    },
+
+
+
+    "error": {
+        "title": "Page not found",
+        "paragraph": "We are sorry, but the page you are looking for does not exist",
+        "btn": "Go back to list",
+        "message": {
+            "paragraph": "This website uses cookies to ensure you get the best experience on our website.",
+            "more": "Learn more",
+            "btn": "Agree with all cookies",
+            "link": "Slapukų nustatymai"
+        }
+    },
+
+    "dealsmsg": {
+        "error": {
+            "text": "Sorry, but your identification failed.",
+            "btn": "Try again"
+        },
+        "approve": {
+            "text": "Congrats! Your identity was verified successfully.",
+            "btn": "Complete your last deal"
+        }
     }
+
 }
